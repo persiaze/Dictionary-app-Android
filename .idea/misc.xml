@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings.xml" value="0.1455" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1455" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1455" />
+        <entry key="app/src/main/res/layout-land/activity_add_word.xml" value="0.19277107736631255" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.1146384479717813" />
+        <entry key="app/src/main/res/layout-land/activity_settings.xml" value="0.1724448444561563" />
+        <entry key="app/src/main/res/layout-land/activity_word_card.xml" value="0.17581856271787505" />
+        <entry key="app/src/main/res/layout/activity_add_word.xml" value="0.23143615722656247" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18397369384765627" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.169488525390625" />
+        <entry key="app/src/main/res/layout/activity_word_card.xml" value="0.20537414550781252" />
+        <entry key="app/src/main/res/menu/search.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/settings.xml" value="0.13541666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
