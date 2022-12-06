@@ -1,3 +1,5 @@
 # Dictionary-app-Android
-375423 375423 375423
-ug nemch hasch ustgaj bolno.
+Hello, welcome to my repository.
+# Usage
+
+You can add your new vocabularies into your application and see it afterwards.
